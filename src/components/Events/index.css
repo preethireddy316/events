@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.events{
+    width: 60%;
+}
+.event-status{
+    width:40%;    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
